@@ -7,7 +7,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SecureStringMarshal
+namespace IT2media.SecureStringMarshal
 {
     public static class SecureStringExtensions
     {

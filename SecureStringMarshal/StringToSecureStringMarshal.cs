@@ -7,7 +7,7 @@ using System.Security;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SecureStringMarshal
+namespace IT2media.SecureStringMarshal
 {
     /// <summary>
     /// A helper for managed code to secure marshal the handling of Strings to SecureStrings

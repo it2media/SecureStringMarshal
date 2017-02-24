@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 [assembly: ReliabilityContract(Consistency.WillNotCorruptState, Cer.Success)]
-namespace SecureStringMarshal
+namespace IT2media.SecureStringMarshal
 {
     /// <summary>
     /// A helper for managed code to secure marshal the handling of SecureStrings to Strings
