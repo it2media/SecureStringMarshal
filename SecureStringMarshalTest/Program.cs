@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security;
 using System.Text;
 using System.Threading.Tasks;
-using SecureStringMarshal;
+using IT2media.SecureStringMarshal;
 
 namespace SecureStringMarshalTest
 {
